@@ -1,0 +1,4 @@
+﻿  SearchInsertPosition_LC35.cpp
+D:\Algorithms\Practice_Algorithms\SearchInsertPosition_LC35\SearchInsertPosition_LC35\SearchInsertPosition_LC35.cpp(11,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Algorithms\Practice_Algorithms\SearchInsertPosition_LC35\SearchInsertPosition_LC35\SearchInsertPosition_LC35.cpp(25,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SearchInsertPosition_LC35.vcxproj -> D:\Algorithms\Practice_Algorithms\SearchInsertPosition_LC35\x64\Debug\SearchInsertPosition_LC35.exe
