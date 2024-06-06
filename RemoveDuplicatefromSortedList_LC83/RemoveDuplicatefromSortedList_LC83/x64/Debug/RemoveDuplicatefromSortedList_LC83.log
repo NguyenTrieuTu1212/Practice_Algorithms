@@ -1,0 +1,4 @@
+﻿  RemoveDuplicatefromSortedList_LC83.cpp
+D:\Algorithms\Practice_Algorithms\RemoveDuplicatefromSortedList_LC83\RemoveDuplicatefromSortedList_LC83\RemoveDuplicatefromSortedList_LC83.cpp(21,8): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Algorithms\Practice_Algorithms\RemoveDuplicatefromSortedList_LC83\RemoveDuplicatefromSortedList_LC83\RemoveDuplicatefromSortedList_LC83.cpp(62,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  RemoveDuplicatefromSortedList_LC83.vcxproj -> D:\Algorithms\Practice_Algorithms\RemoveDuplicatefromSortedList_LC83\x64\Debug\RemoveDuplicatefromSortedList_LC83.exe
