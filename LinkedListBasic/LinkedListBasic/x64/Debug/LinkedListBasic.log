@@ -1,0 +1,3 @@
+﻿  LinkedListBasic.cpp
+D:\Algorithms\Practice_Algorithms\LinkedListBasic\LinkedListBasic\LinkedListBasic.cpp(129,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LinkedListBasic.vcxproj -> D:\Algorithms\Practice_Algorithms\LinkedListBasic\x64\Debug\LinkedListBasic.exe
